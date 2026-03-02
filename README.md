@@ -64,11 +64,10 @@ Instead of just reading code, you can enter tumor feature values and see real‑
 ---
 
 ## 🚀 Extensions
-- **Deployment demo** using Streamlit for interactive predictions
-- The app includes:
-- Default example inputs (so you can test quickly)
-- ROC curve and confusion matrix visualizations
-- A short “About” section explaining the dataset and purpose
+- **Deployment demo** using Streamlit for interactive predictions. The app includes:
+   - Default example inputs (so you can test quickly)
+   - ROC curve and confusion matrix visualizations
+   - A short “About” section explaining the dataset and purpose
 
 ---
 
