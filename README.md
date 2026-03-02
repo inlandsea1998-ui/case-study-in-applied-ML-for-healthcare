@@ -8,7 +8,7 @@ I implemented and compared a **Support Vector Machine (SVM)** with hyperparamete
 
 I chose SVM for its robustness on smaller datasets and MLP to test a flexible non-linear model. I used GridSearchCV to tune hyperparameters, ensuring the models were optimized rather than relying on defaults.
 
-I built a **[Streamlit web app](https://case-study-in-applied-ml-for-healthcare.streamlit.app/)** to make this project interactive.
+I built a **[Web app](https://case-study-in-applied-ml-for-healthcare.streamlit.app/)** to make this project interactive.
 Instead of just reading code, you can enter tumor feature values and see real‑time predictions from both the SVM and Neural Network models.
 
 ---
